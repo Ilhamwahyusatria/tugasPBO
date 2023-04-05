@@ -1,16 +1,19 @@
-# Employee Salary Calculator
-Program ini adalah sebuah aplikasi sederhana untuk menghitung gaji karyawan berdasarkan beberapa parameter seperti golongan, jumlah anak, dan status perkawinan. Program ini juga menambahkan beberapa fitur baru seperti penambahan tingkat golongan dan bonus untuk karyawan dengan kriteria tertentu.
+# README
+# Tentang Program
+Program ini adalah sebuah contoh implementasi penghitungan gaji karyawan. Program ini ditulis menggunakan bahasa pemrograman Python dan menerima input dari pengguna berupa nama karyawan, gaji pokok, golongan, status pernikahan, dan jumlah anak.
+
+Program akan menghitung tunjangan golongan, tunjangan anak, dan tunjangan istri (jika ada), serta menghitung potongan pajak. Program juga akan memberikan bonus tertentu jika kriteria yang ditentukan terpenuhi.
+
+Hasil akhir yang ditampilkan oleh program adalah gaji karyawan setelah diproses dengan semua faktor-faktor yang mempengaruhinya, yaitu tunjangan, pajak, dan bonus.
 
 # Cara Menggunakan Program
-Jalankan program dengan menggunakan Python 3 atau versi yang lebih baru.
-Masukkan informasi karyawan seperti nama, gaji pokok, golongan, jumlah anak, dan status perkawinan.
-Program akan menghitung gaji karyawan berdasarkan informasi yang dimasukkan dan menampilkan hasilnya di layar.
-# Cara Menghitung Gaji Karyawan
-Gaji karyawan dihitung berdasarkan beberapa parameter seperti berikut:
+Pastikan bahwa Python sudah terpasang di komputer Anda.
+Download atau clone repository ini ke komputer Anda.
+Buka terminal atau command prompt dan masuk ke direktori tempat Anda menyimpan repository ini.
+Jalankan program dengan mengetikkan perintah python employee_salary.py.
+Masukkan informasi yang diminta oleh program, yaitu nama karyawan, gaji pokok, golongan, status pernikahan, dan jumlah anak.
+Program akan menghitung gaji karyawan dan menampilkannya di layar.
 
-Tunjangan golongan: tergantung dari golongan karyawan. Ada 5 tingkat golongan, dimulai dari 1 hingga 5. Masing-masing golongan memiliki persentase tunjangan yang berbeda-beda.
-Tunjangan anak: tergantung dari jumlah anak yang dimiliki karyawan. Jika karyawan memiliki anak, maka akan diberikan tunjangan sebesar 2% dari gaji pokok per anak.
-Tunjangan istri/suami: tergantung dari status perkawinan karyawan. Jika karyawan sudah menikah, maka akan diberikan tunjangan sebesar 10% dari gaji pokok.
-Pajak: tergantung dari total gaji karyawan setelah ditambahkan tunjangan golongan, anak, dan istri/suami. Pajak akan dikenakan dengan persentase yang berbeda-beda, tergantung dari total gaji karyawan.
-Bonus: tergantung dari kriteria tertentu seperti golongan dan jumlah anak. Ada 2 tingkat bonus yang diberikan, yaitu bonus tingkat 1 dan tingkat 2.
+
+
 
