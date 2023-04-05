@@ -13,8 +13,4 @@ Tunjangan anak: tergantung dari jumlah anak yang dimiliki karyawan. Jika karyawa
 Tunjangan istri/suami: tergantung dari status perkawinan karyawan. Jika karyawan sudah menikah, maka akan diberikan tunjangan sebesar 10% dari gaji pokok.
 Pajak: tergantung dari total gaji karyawan setelah ditambahkan tunjangan golongan, anak, dan istri/suami. Pajak akan dikenakan dengan persentase yang berbeda-beda, tergantung dari total gaji karyawan.
 Bonus: tergantung dari kriteria tertentu seperti golongan dan jumlah anak. Ada 2 tingkat bonus yang diberikan, yaitu bonus tingkat 1 dan tingkat 2.
-# Keterangan File
-employee.py: file utama yang berisi kode program untuk menghitung gaji karyawan.
-README.md: file yang berisi informasi tentang program dan cara penggunaannya.
-# Lisensi
-Program ini dilindungi oleh lisensi MIT. Silakan lihat file LICENSE untuk informasi lebih lanjut.
+
